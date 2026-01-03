@@ -1,0 +1,22 @@
+{
+  "name": "get-id-bot",
+  "version": "1.0.0",
+  "description": "A simple and elegant Telegram bot that retrieves chat and user IDs",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "telegram-bot",
+    "id",
+    "chat-id",
+    "user-id"
+  ],
+  "author": "WonkaRed",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}
