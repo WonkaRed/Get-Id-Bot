@@ -17,6 +17,7 @@
   "author": "WonkaRed",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "node-telegram-bot-api": "^0.67.0"
   }
 }
